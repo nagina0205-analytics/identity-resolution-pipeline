@@ -1,0 +1,11 @@
+identity_graph:
+  target: "{{ 'motherduck' if env_var('MOTHERDUCK_TOKEN', '') else 'local' }}"
+  outputs:
+    local:
+      type: duckdb
+      path: "{{ env_var('DUCKDB_PATH', '../warehouse/identity.duckdb') }}"
+      threads: 4
+    motherduck:
+      type: duckdb
+      path: "md:identity_graph"
+      threads: 4

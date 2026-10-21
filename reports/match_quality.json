@@ -1,0 +1,17 @@
+{
+  "records_scored": 2770,
+  "true_people": 425,
+  "resolved_people": 422,
+  "pairwise_precision": 0.999,
+  "pairwise_recall": 0.9441,
+  "f1": 0.9708,
+  "clusters_with_two_people": 1,
+  "records_left_unmatched": 117,
+  "records_by_rule": {
+    "email": 988,
+    "email+name_company": 722,
+    "name_company": 943,
+    "unresolved": 61,
+    "ambiguous": 56
+  }
+}

@@ -1,0 +1,9 @@
+data/
+warehouse/
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+logs/
+__pycache__/
+.pytest_cache/
+.env

@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: raw
+    schema: main
+    description: Raw tables loaded from S3 by ingest/s3_ingest.py
+    tables:
+      - name: raw_crm_contacts
+      - name: raw_web_visits
+      - name: raw_linkedin_engagement
+      - name: raw_job_changes
+      - name: raw_provider_delivery

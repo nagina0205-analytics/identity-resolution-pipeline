@@ -1,0 +1,30 @@
+version: 2
+models:
+  - name: dim_person
+    description: One row per resolved person.
+    columns:
+      - name: person_key
+        tests: [unique, not_null]
+      - name: email_sha256
+        description: Every person has at least a hashed email. Plain email can be null for hash-only form fills.
+        tests: [not_null]
+  - name: fct_signals
+    description: Every signal, linked to a person when known and to an account.
+    columns:
+      - name: record_id
+        tests: [unique, not_null]
+      - name: source
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['web', 'linkedin', 'job_change', 'provider']
+      - name: person_key
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_person')
+                field: person_key
+  - name: metrics_match_rate
+    columns:
+      - name: source
+        tests: [not_null]

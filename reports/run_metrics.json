@@ -1,0 +1,49 @@
+{
+  "runs": [
+    {
+      "alerts": [],
+      "cost": {
+        "batch": 1,
+        "s3_objects_read": 5,
+        "s3_bytes_read": 320793,
+        "rows_loaded": 2464,
+        "fct_signals_rows_processed": 2172,
+        "dbt_seconds": 2.96,
+        "dbt_tests_passed": 10
+      }
+    },
+    {
+      "alerts": [],
+      "cost": {
+        "batch": 2,
+        "s3_objects_read": 4,
+        "s3_bytes_read": 296378,
+        "rows_loaded": 2172,
+        "fct_signals_rows_processed": 2172,
+        "dbt_seconds": 1.56,
+        "dbt_tests_passed": 10
+      }
+    }
+  ],
+  "quality": {
+    "records_scored": 2770,
+    "true_people": 425,
+    "resolved_people": 422,
+    "pairwise_precision": 0.999,
+    "pairwise_recall": 0.9441,
+    "f1": 0.9708,
+    "clusters_with_two_people": 1,
+    "records_left_unmatched": 117,
+    "records_by_rule": {
+      "email": 988,
+      "email+name_company": 722,
+      "name_company": 943,
+      "unresolved": 61,
+      "ambiguous": 56
+    }
+  },
+  "benchmark": {
+    "fct_signals_rows_processed": 4344,
+    "dbt_seconds": 1.54
+  }
+}
