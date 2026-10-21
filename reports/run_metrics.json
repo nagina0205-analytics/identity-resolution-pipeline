@@ -8,7 +8,7 @@
         "s3_bytes_read": 320793,
         "rows_loaded": 2464,
         "fct_signals_rows_processed": 2172,
-        "dbt_seconds": 2.96,
+        "dbt_seconds": 2.99,
         "dbt_tests_passed": 10
       }
     },
@@ -20,7 +20,7 @@
         "s3_bytes_read": 296378,
         "rows_loaded": 2172,
         "fct_signals_rows_processed": 2172,
-        "dbt_seconds": 1.56,
+        "dbt_seconds": 0.85,
         "dbt_tests_passed": 10
       }
     }
@@ -44,6 +44,6 @@
   },
   "benchmark": {
     "fct_signals_rows_processed": 4344,
-    "dbt_seconds": 1.54
+    "dbt_seconds": 0.79
   }
 }

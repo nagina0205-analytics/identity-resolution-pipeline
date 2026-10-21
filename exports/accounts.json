@@ -153,21 +153,21 @@
   "engagement_score":142.0
  },
  {
-  "account_domain":"xenon.io",
-  "signals":112,
-  "known_people_engaged":12,
-  "high_intent_visits":20,
-  "anonymous_visits":46,
-  "linkedin_engagements":31,
-  "engagement_score":138.0
- },
- {
   "account_domain":"beacon.com",
   "signals":127,
   "known_people_engaged":14,
   "high_intent_visits":15,
   "anonymous_visits":52,
   "linkedin_engagements":39,
+  "engagement_score":138.0
+ },
+ {
+  "account_domain":"xenon.io",
+  "signals":112,
+  "known_people_engaged":12,
+  "high_intent_visits":20,
+  "anonymous_visits":46,
+  "linkedin_engagements":31,
   "engagement_score":138.0
  },
  {
@@ -243,21 +243,21 @@
   "engagement_score":98.5
  },
  {
-  "account_domain":"vantage.io",
-  "signals":69,
-  "known_people_engaged":9,
-  "high_intent_visits":11,
-  "anonymous_visits":17,
-  "linkedin_engagements":22,
-  "engagement_score":81.5
- },
- {
   "account_domain":"meridian.com",
   "signals":63,
   "known_people_engaged":8,
   "high_intent_visits":14,
   "anonymous_visits":23,
   "linkedin_engagements":12,
+  "engagement_score":81.5
+ },
+ {
+  "account_domain":"vantage.io",
+  "signals":69,
+  "known_people_engaged":9,
+  "high_intent_visits":11,
+  "anonymous_visits":17,
+  "linkedin_engagements":22,
   "engagement_score":81.5
  },
  {
