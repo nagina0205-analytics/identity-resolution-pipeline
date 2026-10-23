@@ -16,8 +16,8 @@
 
 | Batch | S3 objects read | S3 bytes read | Rows loaded | fct_signals rows processed | dbt seconds | Tests passed |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 5 | 320,860 | 2,464 | 2,172 | 5.05 | 10 |
-| 2 | 4 | 296,456 | 2,172 | 2,172 | 1.21 | 10 |
+| 1 | 5 | 320,860 | 2,464 | 2,172 | 5.39 | 10 |
+| 2 | 4 | 296,456 | 2,172 | 2,172 | 1.58 | 10 |
 
 Incremental vs full refresh on the last batch: **2,172 rows** processed instead of **4,344** (50% less work). Rerunning a batch reads 0 bytes from S3 because the load manifest skips files it has already loaded.
 
