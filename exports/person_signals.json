@@ -600,488 +600,473 @@
   "high_intent_visits":0
  },
  {
-  "person_key":"per_44d9f882cc7c",
-  "signals":4,
+  "person_key":"per_7cc5161dbec2",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_5cdd15abbc07",
+  "signals":8,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_273b7c4f2469",
+  "person_key":"per_31a1b97b8459",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4fff3a60cff9",
+  "signals":10,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_3032725b3990",
+  "signals":3,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_d7d72df81d74",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_1b5049eba2c1",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_575be6948139",
+  "signals":8,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_4c5f59ae7a6a",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_ccc42bb59b9f",
+  "signals":11,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_7fc65c34838b",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_d0d963dfa794",
-  "signals":8,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_363f27b779b0",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_49a20f62ed99",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_44731f150e5e",
-  "signals":5,
+  "person_key":"per_cdad96048370",
+  "signals":2,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_67f14b68bdeb",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_2d81a2f35cb4",
+  "person_key":"per_a78c713942a6",
   "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_85f9953698e7",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_5a59d981b557",
-  "signals":11,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_ba95b835c4bc",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_ee20a50c833e",
-  "signals":8,
   "high_intent_visits":3
  },
  {
-  "person_key":"per_cae8c64130df",
+  "person_key":"per_c87cf864d613",
+  "signals":2,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_c0c00b21132a",
+  "signals":9,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_bba2106121bf",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_cc40ff154586",
+  "signals":8,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_be257a4452ce",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_3af139e7dddf",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_6fa497b70cc5",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_98a96168b5ea",
   "signals":5,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_6f2a617c41c1",
-  "signals":10,
+  "person_key":"per_48f86a816ce2",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e0eabd311560",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_62672881a5df",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_16d78ffd19cf",
+  "signals":7,
   "high_intent_visits":3
  },
  {
-  "person_key":"per_d644f64b896e",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e7c276bd9c35",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_380ebeb71635",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_271ce3c626ef",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_c373ac4f014d",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e2dd54cfa0c1",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_cd3f5df0e444",
-  "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_df756da22e9d",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_de9f165707b2",
+  "person_key":"per_18770555c19e",
   "signals":5,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_baa8ef669f6b",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_0154ba6a9a92",
+  "person_key":"per_64b2dc7881c1",
   "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_78b6c142bb37",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_44ec829cbe9a",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_a6035f711e4f",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_9042d216c982",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_4b1f3fb36634",
-  "signals":1,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_26a9ba4b8423",
-  "signals":1,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_1345fd6150ec",
+  "person_key":"per_457fb6dab6e1",
   "signals":9,
-  "high_intent_visits":1
+  "high_intent_visits":2
  },
  {
-  "person_key":"per_fcba728531b3",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_cbb47037d197",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_ffe1f7bc7760",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_8f208571ed10",
-  "signals":8,
+  "person_key":"per_ca5dbda29a77",
+  "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_1696691515fa",
-  "signals":5,
+  "person_key":"per_00fcc754b470",
+  "signals":4,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_b61f50ef3159",
+  "person_key":"per_71aafb3369a1",
   "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_8b056b8b4a04",
+  "signals":9,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_e5de454a37d0",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_85b1893d07b8",
+  "person_key":"per_5a07b778ac49",
   "signals":10,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_c8b1683b8de8",
-  "signals":9,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_3260ad62192c",
-  "signals":9,
   "high_intent_visits":2
  },
  {
-  "person_key":"per_6a08ac91ea88",
-  "signals":7,
-  "high_intent_visits":1
+  "person_key":"per_7258d4eba4ca",
+  "signals":1,
+  "high_intent_visits":0
  },
  {
-  "person_key":"per_d98ab1cad1d7",
+  "person_key":"per_ce4e75e3cba7",
   "signals":5,
-  "high_intent_visits":0
+  "high_intent_visits":2
  },
  {
-  "person_key":"per_85107a732947",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_1c18a2865565",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_4ce442201827",
-  "signals":9,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_6808ff4474b1",
+  "person_key":"per_b71a92261b7a",
   "signals":4,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_7716099e7c2f",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_6605c468f69c",
-  "signals":10,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_bd746de09137",
-  "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_0536db163782",
-  "signals":6,
+  "person_key":"per_a5a01d8141b9",
+  "signals":9,
   "high_intent_visits":2
  },
  {
-  "person_key":"per_99b60c7e15aa",
-  "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_eb08ab0dd4de",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_6eafecd29d95",
-  "signals":2,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_eb4530cc0af5",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_f4c4e368afb9",
+  "person_key":"per_a49a5893f113",
   "signals":8,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_1cd7101c6166",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_2facee603b14",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_2c1e01cc74c9",
-  "signals":6,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_837afa73cc98",
-  "signals":1,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_317ce08937c9",
-  "signals":2,
+  "person_key":"per_cabdace4105a",
+  "signals":7,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_77fb68c1d772",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_34767d577027",
-  "signals":2,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e317635d28ed",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_68c1d4d40a5f",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_f02b58d19a0f",
+  "person_key":"per_4eb95cba4b8b",
   "signals":9,
-  "high_intent_visits":2
+  "high_intent_visits":3
  },
  {
-  "person_key":"per_767c855c45d8",
+  "person_key":"per_e296109e083a",
+  "signals":9,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_6dadb8e0a598",
   "signals":7,
-  "high_intent_visits":2
+  "high_intent_visits":1
  },
  {
-  "person_key":"per_05bdf8a6b805",
+  "person_key":"per_0c1121c6843c",
   "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_1551f1da859c",
-  "signals":11,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_56a412f8a5f7",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_0e6ffc9cd840",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_e3f439e5a78e",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_b0778f49a89f",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_b2fc1ca7e865",
-  "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_0ce1947a881b",
-  "signals":4,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_1bb5908fe61a",
-  "signals":4,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_b4973edb52f0",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_438c45f92808",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_247b3c7905a0",
-  "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_4813364e81f0",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_0ff6b60a0729",
-  "signals":2,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_fdb150ce9845",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_f4e90fa55f74",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_90a30d1ee9b3",
+  "person_key":"per_94353c47371b",
   "signals":1,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_9a8521c0d977",
+  "person_key":"per_d3684df6a8dc",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_342dfe9bcdee",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_12f3eda74e62",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_fed7ff25cfcc",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_f125df22d70b",
+  "signals":6,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_29dad9007380",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_92134f7eeed5",
+  "signals":12,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_54d9818bfecf",
+  "signals":1,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_fbcf1023d068",
   "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_02d71e1303c4",
+  "person_key":"per_455a957998f3",
+  "signals":4,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_78685f75665e",
   "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_776f75f82959",
+  "person_key":"per_57f0cccb5802",
+  "signals":9,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_387d4e25e3f7",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_a220938cce81",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_f48990e56504",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_8ea7b211423b",
+  "signals":3,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_4056ea01562d",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_80c41be3a023",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4ebe865f87b9",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_8dc99aa00fe1",
+  "signals":9,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_ef0ef77c4798",
+  "signals":8,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_78e8d9e3f231",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_df4cf8448924",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e56edb02c121",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_9d80fc4f3a5a",
   "signals":4,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_e8e062534c54",
+  "person_key":"per_b7e26b87b67c",
   "signals":5,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_4e6a32ad7940",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_4e51bb480bd7",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_2c8fbeedca25",
+  "person_key":"per_0648dde06d02",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_c7d3de93ab15",
+  "person_key":"per_f775bd9e0a37",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_60cbadcf0a24",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_be7b2cfec5bd",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_282db1c2c20a",
+  "signals":4,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_39a9d98830bf",
+  "signals":3,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_45c8b2a38bc4",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_cd852adbdea2",
+  "signals":3,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_10865ff3066f",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e882e5247120",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_62d74e5c02b4",
+  "signals":4,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_cce7e5f7614d",
   "signals":2,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_f62ab13352ce",
-  "signals":2,
+  "person_key":"per_d53dc925b399",
+  "signals":4,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_e10afec46f5f",
+  "person_key":"per_80ae2e65bf37",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e43b852703ba",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_1732fe8cdfac",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_26ba7cbe876d",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_6682c3c5dce6",
-  "signals":2,
+  "person_key":"per_c2c89074a5e6",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_fbf8f8b25bf1",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_b5019d21f380",
+  "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_3622c6490b5c",
-  "signals":1,
+  "person_key":"per_b521448eeea6",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_7725f9cd5fcd",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_04403e81fa1f",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4ef071f51455",
+  "signals":3,
   "high_intent_visits":0
  },
  {
@@ -1640,473 +1625,488 @@
   "high_intent_visits":0
  },
  {
-  "person_key":"per_7cc5161dbec2",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_5cdd15abbc07",
-  "signals":8,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_31a1b97b8459",
+  "person_key":"per_44d9f882cc7c",
   "signals":4,
-  "high_intent_visits":0
+  "high_intent_visits":1
  },
  {
-  "person_key":"per_4fff3a60cff9",
-  "signals":10,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_3032725b3990",
+  "person_key":"per_273b7c4f2469",
   "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_d7d72df81d74",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_1b5049eba2c1",
-  "signals":5,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_575be6948139",
+  "person_key":"per_d0d963dfa794",
   "signals":8,
-  "high_intent_visits":2
+  "high_intent_visits":1
  },
  {
-  "person_key":"per_4c5f59ae7a6a",
+  "person_key":"per_363f27b779b0",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_49a20f62ed99",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_44731f150e5e",
   "signals":5,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_ccc42bb59b9f",
+  "person_key":"per_67f14b68bdeb",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_2d81a2f35cb4",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_85f9953698e7",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_5a59d981b557",
   "signals":11,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_7fc65c34838b",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_cdad96048370",
-  "signals":2,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_a78c713942a6",
-  "signals":7,
-  "high_intent_visits":3
- },
- {
-  "person_key":"per_c87cf864d613",
-  "signals":2,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_c0c00b21132a",
-  "signals":9,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_bba2106121bf",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_cc40ff154586",
-  "signals":8,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_be257a4452ce",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_3af139e7dddf",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_6fa497b70cc5",
-  "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_98a96168b5ea",
+  "person_key":"per_ba95b835c4bc",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_ee20a50c833e",
+  "signals":8,
+  "high_intent_visits":3
+ },
+ {
+  "person_key":"per_cae8c64130df",
   "signals":5,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_48f86a816ce2",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e0eabd311560",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_62672881a5df",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_16d78ffd19cf",
-  "signals":7,
-  "high_intent_visits":3
- },
- {
-  "person_key":"per_18770555c19e",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_64b2dc7881c1",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_457fb6dab6e1",
-  "signals":9,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_ca5dbda29a77",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_00fcc754b470",
-  "signals":4,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_71aafb3369a1",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_8b056b8b4a04",
-  "signals":9,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_5a07b778ac49",
+  "person_key":"per_6f2a617c41c1",
   "signals":10,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_7258d4eba4ca",
-  "signals":1,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_ce4e75e3cba7",
-  "signals":5,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_b71a92261b7a",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_a5a01d8141b9",
-  "signals":9,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_a49a5893f113",
-  "signals":8,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_cabdace4105a",
-  "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_4eb95cba4b8b",
-  "signals":9,
   "high_intent_visits":3
  },
  {
-  "person_key":"per_e296109e083a",
-  "signals":9,
-  "high_intent_visits":1
+  "person_key":"per_d644f64b896e",
+  "signals":4,
+  "high_intent_visits":0
  },
  {
-  "person_key":"per_6dadb8e0a598",
+  "person_key":"per_e7c276bd9c35",
   "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_380ebeb71635",
+  "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_0c1121c6843c",
+  "person_key":"per_271ce3c626ef",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_c373ac4f014d",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e2dd54cfa0c1",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_cd3f5df0e444",
+  "signals":3,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_df756da22e9d",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_de9f165707b2",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_baa8ef669f6b",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_0154ba6a9a92",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_78b6c142bb37",
   "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_94353c47371b",
+  "person_key":"per_44ec829cbe9a",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_a6035f711e4f",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_9042d216c982",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4b1f3fb36634",
   "signals":1,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_d3684df6a8dc",
+  "person_key":"per_26a9ba4b8423",
+  "signals":1,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_1345fd6150ec",
+  "signals":9,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_fcba728531b3",
   "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_342dfe9bcdee",
-  "signals":5,
+  "person_key":"per_cbb47037d197",
+  "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_12f3eda74e62",
-  "signals":5,
+  "person_key":"per_ffe1f7bc7760",
+  "signals":6,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_fed7ff25cfcc",
-  "signals":7,
+  "person_key":"per_8f208571ed10",
+  "signals":8,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_f125df22d70b",
+  "person_key":"per_1696691515fa",
+  "signals":5,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_b61f50ef3159",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e5de454a37d0",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_85b1893d07b8",
+  "signals":10,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_c8b1683b8de8",
+  "signals":9,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_3260ad62192c",
+  "signals":9,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_6a08ac91ea88",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_d98ab1cad1d7",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_85107a732947",
+  "signals":8,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_1c18a2865565",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4ce442201827",
+  "signals":9,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_6808ff4474b1",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_7716099e7c2f",
+  "signals":3,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_6605c468f69c",
+  "signals":10,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_bd746de09137",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_0536db163782",
   "signals":6,
   "high_intent_visits":2
  },
  {
-  "person_key":"per_29dad9007380",
+  "person_key":"per_99b60c7e15aa",
+  "signals":7,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_eb08ab0dd4de",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_6eafecd29d95",
+  "signals":2,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_eb4530cc0af5",
   "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_f4c4e368afb9",
+  "signals":8,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_92134f7eeed5",
-  "signals":12,
-  "high_intent_visits":1
+  "person_key":"per_1cd7101c6166",
+  "signals":5,
+  "high_intent_visits":0
  },
  {
-  "person_key":"per_54d9818bfecf",
+  "person_key":"per_2facee603b14",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_2c1e01cc74c9",
+  "signals":6,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_837afa73cc98",
   "signals":1,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_fbcf1023d068",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_455a957998f3",
-  "signals":4,
+  "person_key":"per_317ce08937c9",
+  "signals":2,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_78685f75665e",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_57f0cccb5802",
-  "signals":9,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_387d4e25e3f7",
-  "signals":6,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_a220938cce81",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_f48990e56504",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_8ea7b211423b",
-  "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_4056ea01562d",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_80c41be3a023",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_4ebe865f87b9",
-  "signals":8,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_8dc99aa00fe1",
-  "signals":9,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_ef0ef77c4798",
-  "signals":8,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_78e8d9e3f231",
+  "person_key":"per_77fb68c1d772",
   "signals":7,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_df4cf8448924",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e56edb02c121",
-  "signals":5,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_9d80fc4f3a5a",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_b7e26b87b67c",
-  "signals":5,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_0648dde06d02",
-  "signals":3,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_f775bd9e0a37",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_60cbadcf0a24",
-  "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_be7b2cfec5bd",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_282db1c2c20a",
-  "signals":4,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_39a9d98830bf",
-  "signals":3,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_45c8b2a38bc4",
-  "signals":7,
-  "high_intent_visits":1
- },
- {
-  "person_key":"per_cd852adbdea2",
-  "signals":3,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_10865ff3066f",
-  "signals":6,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_e882e5247120",
-  "signals":7,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_62d74e5c02b4",
-  "signals":4,
-  "high_intent_visits":2
- },
- {
-  "person_key":"per_cce7e5f7614d",
+  "person_key":"per_34767d577027",
   "signals":2,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_d53dc925b399",
-  "signals":4,
-  "high_intent_visits":0
- },
- {
-  "person_key":"per_80ae2e65bf37",
+  "person_key":"per_e317635d28ed",
   "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_e43b852703ba",
-  "signals":5,
+  "person_key":"per_68c1d4d40a5f",
+  "signals":4,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_1732fe8cdfac",
+  "person_key":"per_f02b58d19a0f",
+  "signals":9,
+  "high_intent_visits":2
+ },
+ {
+  "person_key":"per_767c855c45d8",
   "signals":7,
-  "high_intent_visits":1
+  "high_intent_visits":2
  },
  {
-  "person_key":"per_26ba7cbe876d",
-  "signals":3,
+  "person_key":"per_05bdf8a6b805",
+  "signals":6,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_c2c89074a5e6",
+  "person_key":"per_1551f1da859c",
+  "signals":11,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_56a412f8a5f7",
+  "signals":7,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_0e6ffc9cd840",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_e3f439e5a78e",
+  "signals":6,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_b0778f49a89f",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_b2fc1ca7e865",
+  "signals":3,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_0ce1947a881b",
+  "signals":4,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_1bb5908fe61a",
+  "signals":4,
+  "high_intent_visits":1
+ },
+ {
+  "person_key":"per_b4973edb52f0",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_438c45f92808",
   "signals":5,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_fbf8f8b25bf1",
-  "signals":5,
+  "person_key":"per_247b3c7905a0",
+  "signals":3,
   "high_intent_visits":1
  },
  {
-  "person_key":"per_b5019d21f380",
+  "person_key":"per_4813364e81f0",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_0ff6b60a0729",
+  "signals":2,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_fdb150ce9845",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_f4e90fa55f74",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_b521448eeea6",
+  "person_key":"per_90a30d1ee9b3",
+  "signals":1,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_9a8521c0d977",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_02d71e1303c4",
+  "signals":6,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_776f75f82959",
+  "signals":4,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e8e062534c54",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4e6a32ad7940",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_4e51bb480bd7",
+  "signals":5,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_2c8fbeedca25",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_7725f9cd5fcd",
+  "person_key":"per_c7d3de93ab15",
+  "signals":2,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_f62ab13352ce",
+  "signals":2,
+  "high_intent_visits":0
+ },
+ {
+  "person_key":"per_e10afec46f5f",
   "signals":3,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_04403e81fa1f",
-  "signals":3,
+  "person_key":"per_6682c3c5dce6",
+  "signals":2,
   "high_intent_visits":0
  },
  {
-  "person_key":"per_4ef071f51455",
-  "signals":3,
+  "person_key":"per_3622c6490b5c",
+  "signals":1,
   "high_intent_visits":0
  }
 ]
