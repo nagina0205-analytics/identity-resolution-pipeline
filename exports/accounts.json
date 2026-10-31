@@ -243,21 +243,21 @@
   "engagement_score":98.5
  },
  {
-  "account_domain":"vantage.io",
-  "signals":69,
-  "known_people_engaged":9,
-  "high_intent_visits":11,
-  "anonymous_visits":17,
-  "linkedin_engagements":22,
-  "engagement_score":81.5
- },
- {
   "account_domain":"meridian.com",
   "signals":63,
   "known_people_engaged":8,
   "high_intent_visits":14,
   "anonymous_visits":23,
   "linkedin_engagements":12,
+  "engagement_score":81.5
+ },
+ {
+  "account_domain":"vantage.io",
+  "signals":69,
+  "known_people_engaged":9,
+  "high_intent_visits":11,
+  "anonymous_visits":17,
+  "linkedin_engagements":22,
   "engagement_score":81.5
  },
  {
