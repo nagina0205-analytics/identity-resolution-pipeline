@@ -126,21 +126,21 @@
   "engagement_score":149.0
  },
  {
-  "account_domain":"upland.io",
-  "signals":132,
-  "known_people_engaged":15,
-  "high_intent_visits":19,
-  "anonymous_visits":51,
-  "linkedin_engagements":31,
-  "engagement_score":143.5
- },
- {
   "account_domain":"willow.com",
   "signals":103,
   "known_people_engaged":13,
   "high_intent_visits":25,
   "anonymous_visits":43,
   "linkedin_engagements":21,
+  "engagement_score":143.5
+ },
+ {
+  "account_domain":"upland.io",
+  "signals":132,
+  "known_people_engaged":15,
+  "high_intent_visits":19,
+  "anonymous_visits":51,
+  "linkedin_engagements":31,
   "engagement_score":143.5
  },
  {
