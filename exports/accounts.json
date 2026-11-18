@@ -153,21 +153,21 @@
   "engagement_score":142.0
  },
  {
-  "account_domain":"xenon.io",
-  "signals":112,
-  "known_people_engaged":12,
-  "high_intent_visits":20,
-  "anonymous_visits":46,
-  "linkedin_engagements":31,
-  "engagement_score":138.0
- },
- {
   "account_domain":"beacon.com",
   "signals":127,
   "known_people_engaged":14,
   "high_intent_visits":15,
   "anonymous_visits":52,
   "linkedin_engagements":39,
+  "engagement_score":138.0
+ },
+ {
+  "account_domain":"xenon.io",
+  "signals":112,
+  "known_people_engaged":12,
+  "high_intent_visits":20,
+  "anonymous_visits":46,
+  "linkedin_engagements":31,
   "engagement_score":138.0
  },
  {
